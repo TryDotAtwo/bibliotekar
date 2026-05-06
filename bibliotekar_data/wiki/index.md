@@ -1,0 +1,150 @@
+# Index
+
+- 2026-05-06 | sources/source-raw-txt.md | Source: raw.txt
+- 2026-05-06 | queries/query-what-is-in-the-wiki.md | Query: What is in the wiki?
+- 2026-05-06 | sources/source-raw-txt.md | Source: raw.txt
+- 2026-05-06 | queries/query-what-is-in-the-wiki.md | Query: What is in the wiki?
+- 2026-05-06 | sources/source-raw-txt.md | Source: raw.txt
+- 2026-05-06 | queries/query-what-is-in-the-wiki.md | Query: What is in the wiki?
+- 2026-05-06 | sources/source-raw-txt.md | Source: raw.txt
+- 2026-05-06 | queries/query-what-is-in-the-wiki.md | Query: What is in the wiki?
+- 2026-05-06 | sources/source-raw-txt.md | Source: raw.txt
+- 2026-05-06 | queries/query-what-is-in-the-wiki.md | Query: What is in the wiki?
+- 2026-05-06 | sources/source-info1-txt.md | Source: info1.txt
+- 2026-05-06 | sources/source-info2-md.md | Source: info2.md
+- 2026-05-06 | queries/query-how-to-solve-a-4x4-rubik-s-cube-optimally.md | Query: How to solve a 4x4 Rubik's cube optimally?
+- 2026-05-06 | sources/source-rubiks_4x4_summary-txt.md | Source: rubiks_4x4_summary.txt
+- 2026-05-06 | queries/query-how-to-solve-a-4x4-rubik-cube-optimally.md | Query: How to solve a 4x4 Rubik cube optimally?
+- 2026-05-06 | queries/query-how-to-solve-a-4x4-rubik-cube-optimally.md | Query: How to solve a 4x4 Rubik cube optimally?
+- 2026-05-06 | sources/source-raw-txt.md | Source: raw.txt
+- 2026-05-06 | queries/query-what-is-in-the-wiki.md | Query: What is in the wiki?
+- 2026-05-06 | sources/source-info1-txt.md | Source: info1.txt
+- 2026-05-06 | sources/source-info2-md.md | Source: info2.md
+- 2026-05-06 | queries/query-how-to-solve-a-4x4-rubik-s-cube-optimally.md | Query: How to solve a 4x4 Rubik's cube optimally?
+- 2026-05-06 | queries/query-how-to-solve-a-4x4-rubik-cube-optimally.md | Query: How to solve a 4x4 Rubik cube optimally?
+- 2026-05-06 | sources/source-raw-txt.md | Source: raw.txt
+- 2026-05-06 | queries/query-what-is-in-the-wiki.md | Query: What is in the wiki?
+- 2026-05-06 | sources/source-method-txt.md | Source: method.txt
+- 2026-05-06 | sources/source-yau-md.md | Source: yau.md
+- 2026-05-06 | queries/query-how-to-solve-a-4x4-rubik-s-cube-optimally.md | Query: How to solve a 4x4 Rubik's cube optimally?
+- 2026-05-06 | sources/source-raw-txt.md | Source: raw.txt
+- 2026-05-06 | queries/query-what-is-in-the-wiki.md | Query: What is in the wiki?
+- 2026-05-06 | sources/source-method-txt.md | Source: method.txt
+- 2026-05-06 | sources/source-yau-md.md | Source: yau.md
+- 2026-05-06 | queries/query-how-to-solve-a-4x4-rubik-s-cube-optimally.md | Query: How to solve a 4x4 Rubik's cube optimally?
+- 2026-05-06 | sources/source-info1-txt.md | Source: info1.txt
+- 2026-05-06 | sources/source-info2-md.md | Source: info2.md
+- 2026-05-06 | queries/query-how-to-solve-a-4x4-rubik-s-cube-optimally.md | Query: How to solve a 4x4 Rubik's cube optimally?
+- 2026-05-06 | sources/source-raw-txt.md | Source: raw.txt
+- 2026-05-06 | queries/query-what-is-in-the-wiki.md | Query: What is in the wiki?
+- 2026-05-06 | sources/source-method-txt.md | Source: method.txt
+- 2026-05-06 | sources/source-yau-md.md | Source: yau.md
+- 2026-05-06 | queries/query-how-to-solve-a-4x4-rubik-s-cube-optimally.md | Query: How to solve a 4x4 Rubik's cube optimally?
+- 2026-05-06 | sources/source-gods_number_4x4-txt.md | Source: gods_number_4x4.txt
+- 2026-05-06 | queries/query-what-is-the-god-s-number-for-the-4-4-cube.md | Query: What is the God’s number for the 4×4 cube?
+- 2026-05-06 | sources/source-raw-txt.md | Source: raw.txt
+- 2026-05-06 | queries/query-what-is-in-the-wiki.md | Query: What is in the wiki?
+- 2026-05-06 | sources/source-method-txt.md | Source: method.txt
+- 2026-05-06 | sources/source-yau-md.md | Source: yau.md
+- 2026-05-06 | queries/query-how-to-solve-a-4x4-rubik-s-cube-optimally.md | Query: How to solve a 4x4 Rubik's cube optimally?
+- 2026-05-06 | sources/source-gods_number_4x4-txt.md | Source: gods_number_4x4.txt
+- 2026-05-06 | queries/query-what-is-the-god-s-number-for-the-4-4-cube.md | Query: What is the God’s number for the 4×4 cube?
+- 2026-05-06 | sources/source-info1-txt.md | Source: info1.txt
+- 2026-05-06 | sources/source-info2-md.md | Source: info2.md
+- 2026-05-06 | queries/query-how-to-solve-a-4x4-rubik-s-cube-optimally.md | Query: How to solve a 4x4 Rubik's cube optimally?
+- 2026-05-06 | sources/source-raw-txt.md | Source: raw.txt
+- 2026-05-06 | queries/query-what-is-in-the-wiki.md | Query: What is in the wiki?
+- 2026-05-06 | sources/source-method-txt.md | Source: method.txt
+- 2026-05-06 | sources/source-yau-md.md | Source: yau.md
+- 2026-05-06 | queries/query-how-to-solve-a-4x4-rubik-s-cube-optimally.md | Query: How to solve a 4x4 Rubik's cube optimally?
+- 2026-05-06 | sources/source-gods_number_4x4-txt.md | Source: gods_number_4x4.txt
+- 2026-05-06 | queries/query-what-is-the-god-s-number-for-the-4-4-cube.md | Query: What is the God’s number for the 4×4 cube?
+- 2026-05-06 | sources/source-info1-txt.md | Source: info1.txt
+- 2026-05-06 | sources/source-info2-md.md | Source: info2.md
+- 2026-05-06 | queries/query-how-to-solve-a-4x4-rubik-s-cube-optimally.md | Query: How to solve a 4x4 Rubik's cube optimally?
+- 2026-05-06 | sources/source-raw-txt.md | Source: raw.txt
+- 2026-05-06 | queries/query-what-is-in-the-wiki.md | Query: What is in the wiki?
+- 2026-05-06 | sources/source-method-txt.md | Source: method.txt
+- 2026-05-06 | sources/source-yau-md.md | Source: yau.md
+- 2026-05-06 | queries/query-how-to-solve-a-4x4-rubik-s-cube-optimally.md | Query: How to solve a 4x4 Rubik's cube optimally?
+- 2026-05-06 | sources/source-gods_number_4x4-txt.md | Source: gods_number_4x4.txt
+- 2026-05-06 | queries/query-what-is-the-god-s-number-for-the-4-4-cube.md | Query: What is the God’s number for the 4×4 cube?
+- 2026-05-06 | sources/source-info1-txt.md | Source: info1.txt
+- 2026-05-06 | sources/source-info2-md.md | Source: info2.md
+- 2026-05-06 | queries/query-how-to-solve-a-4x4-rubik-s-cube-optimally.md | Query: How to solve a 4x4 Rubik's cube optimally?
+- 2026-05-06 | sources/source-raw-txt.md | Source: raw.txt
+- 2026-05-06 | queries/query-what-is-in-the-wiki.md | Query: What is in the wiki?
+- 2026-05-06 | sources/source-method-txt.md | Source: method.txt
+- 2026-05-06 | sources/source-yau-md.md | Source: yau.md
+- 2026-05-06 | queries/query-how-to-solve-a-4x4-rubik-s-cube-optimally.md | Query: How to solve a 4x4 Rubik's cube optimally?
+- 2026-05-06 | sources/source-gods_number_4x4-txt.md | Source: gods_number_4x4.txt
+- 2026-05-06 | queries/query-what-is-the-god-s-number-for-the-4-4-cube.md | Query: What is the God’s number for the 4×4 cube?
+- 2026-05-06 | concepts/test.md | Test
+- 2026-05-06 | sources/source-raw-txt.md | Source: raw.txt
+- 2026-05-06 | queries/query-what-is-in-the-wiki.md | Query: What is in the wiki?
+- 2026-05-06 | concepts/another.md | Another
+- 2026-05-06 | concepts/concepts.md | Concepts
+- 2026-05-06 | concepts/cube.md | Cube
+- 2026-05-06 | concepts/god.md | God
+- 2026-05-06 | concepts/method.md | Method
+- 2026-05-06 | concepts/number.md | Number
+- 2026-05-06 | concepts/reduction.md | Reduction
+- 2026-05-06 | concepts/research.md | Research
+- 2026-05-06 | concepts/revenge.md | Revenge
+- 2026-05-06 | concepts/rubik.md | Rubik
+- 2026-05-06 | concepts/yau.md | Yau
+- 2026-05-06 | sources/source-sample-txt.md | Source: sample.txt
+- 2026-05-06 | sources/source-raw-txt.md | Source: raw.txt
+- 2026-05-06 | queries/query-what-is-in-the-wiki.md | Query: What is in the wiki?
+- 2026-05-06 | sources/source-sample-txt.md | Source: sample.txt
+- 2026-05-06 | sources/source-sample-txt.md | Source: sample.txt
+- 2026-05-06 | synthesis/lint-report.md | Lint Report
+- 2026-05-06 | concepts/finally.md | Finally
+- 2026-05-06 | concepts/first.md | First
+- 2026-05-06 | concepts/next.md | Next
+- 2026-05-06 | concepts/watch.md | Watch
+- 2026-05-06 | sources/source-method-txt.md | Source: method.txt
+- 2026-05-06 | sources/source-yau-md.md | Source: yau.md
+- 2026-05-06 | queries/query-how-to-solve-a-4x4-rubik-s-cube-optimally.md | Query: How to solve a 4x4 Rubik's cube optimally?
+- 2026-05-06 | sources/source-raw-txt.md | Source: raw.txt
+- 2026-05-06 | queries/query-what-is-in-the-wiki.md | Query: What is in the wiki?
+- 2026-05-06 | sources/source-sample-txt.md | Source: sample.txt
+- 2026-05-06 | sources/source-sample-txt.md | Source: sample.txt
+- 2026-05-06 | synthesis/lint-report.md | Lint Report
+- 2026-05-06 | sources/source-method-txt.md | Source: method.txt
+- 2026-05-06 | sources/source-yau-md.md | Source: yau.md
+- 2026-05-06 | queries/query-how-to-solve-a-4x4-rubik-s-cube-optimally.md | Query: How to solve a 4x4 Rubik's cube optimally?
+- 2026-05-06 | sources/source-raw-txt.md | Source: raw.txt
+- 2026-05-06 | queries/query-what-is-in-the-wiki.md | Query: What is in the wiki?
+- 2026-05-06 | sources/source-sample-txt.md | Source: sample.txt
+- 2026-05-06 | sources/source-sample-txt.md | Source: sample.txt
+- 2026-05-06 | synthesis/lint-report.md | Lint Report
+- 2026-05-06 | sources/source-method-txt.md | Source: method.txt
+- 2026-05-06 | sources/source-yau-md.md | Source: yau.md
+- 2026-05-06 | queries/query-how-to-solve-a-4x4-rubik-s-cube-optimally.md | Query: How to solve a 4x4 Rubik's cube optimally?
+- 2026-05-06 | sources/source-raw-txt.md | Source: raw.txt
+- 2026-05-06 | queries/query-what-is-in-the-wiki.md | Query: What is in the wiki?
+- 2026-05-06 | sources/source-sample-txt.md | Source: sample.txt
+- 2026-05-06 | sources/source-sample-txt.md | Source: sample.txt
+- 2026-05-06 | synthesis/lint-report.md | Lint Report
+- 2026-05-06 | sources/source-method-txt.md | Source: method.txt
+- 2026-05-06 | sources/source-yau-md.md | Source: yau.md
+- 2026-05-06 | queries/query-how-to-solve-a-4x4-rubik-s-cube-optimally.md | Query: How to solve a 4x4 Rubik's cube optimally?
+- 2026-05-06 | sources/source-raw-txt.md | Source: raw.txt
+- 2026-05-06 | queries/query-what-is-in-the-wiki.md | Query: What is in the wiki?
+- 2026-05-06 | sources/source-sample-txt.md | Source: sample.txt
+- 2026-05-06 | sources/source-sample-txt.md | Source: sample.txt
+- 2026-05-06 | synthesis/lint-report.md | Lint Report
+- 2026-05-06 | sources/source-method-txt.md | Source: method.txt
+- 2026-05-06 | sources/source-yau-md.md | Source: yau.md
+- 2026-05-06 | queries/query-how-to-solve-a-4x4-rubik-s-cube-optimally.md | Query: How to solve a 4x4 Rubik's cube optimally?
+- 2026-05-06 | concepts/conjectures.md | Conjectures
+- 2026-05-06 | sources/source-gods_number_4x4-txt.md | Source: gods_number_4x4.txt
+- 2026-05-06 | queries/query-what-is-the-god-s-number-for-the-4-4-cube.md | Query: What is the God’s number for the 4×4 cube?
+- 2026-05-06 | sources/source-info1-txt.md | Source: info1.txt
+- 2026-05-06 | sources/source-info2-md.md | Source: info2.md
+- 2026-05-06 | queries/query-how-to-solve-a-4x4-rubik-s-cube-optimally.md | Query: How to solve a 4x4 Rubik's cube optimally?
+- 2026-05-06 | synthesis/lint-report.md | Lint Report
+- 2026-05-06 | concepts/gods-number-4x4.md | God’s Number 4x4
+- 2026-05-06 | queries/query-gods-number-4x4.md | Query: God’s Number 4x4
+- 2026-05-06 | synthesis/lint-report.md | Lint Report

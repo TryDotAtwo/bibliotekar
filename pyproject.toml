@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bibliotekar"
+version = "0.1.0"
+description = "Autonomous library-secretary implementing Karpathy LLM Wiki pattern"
+authors = [{name = "Assistant"}]
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "docx2txt",
+    "pdfminer.six",
+    "requests",
+    "python-pptx",
+    "Pillow",
+    "Jinja2",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+]
+
+[project.scripts]
+bibliotekar = "bibliotekar_ui:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.setuptools]
+py-modules = ["bibliotekar_ui"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["bibliotekar*"]
